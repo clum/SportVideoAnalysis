@@ -1,0 +1,3 @@
+# Required only to run the example Jupyter notebook.
+notebook>=7,<8
+ipykernel>=6
